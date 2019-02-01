@@ -11,7 +11,7 @@
 ## Run this project ##
 1 . Clone project on your machine and run
 ```
-git clone https://github.com/BatuhanKucukali/aws-translate-example
+git clone git@github.com:BatuhanKucukali/spring-boot-websocket-example.git
 ```
 2 . Open **Google Chrome Console**
 ```
@@ -28,4 +28,4 @@ ws.close();
 
 ## Getting help ##
 
-If you're having trouble getting this project running, feel free to [open an issue](https://github.com/BatuhanKucukali/aws-translate-example/issues/new) or [email me](mailto:mail@batuhankucukali.com)!
+If you're having trouble getting this project running, feel free to [open an issue](hhttps://github.com/BatuhanKucukali/spring-boot-websocket-example/issues/new) or [email me](mailto:mail@batuhankucukali.com)!
