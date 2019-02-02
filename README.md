@@ -13,7 +13,7 @@
 ```
 git clone git@github.com:BatuhanKucukali/spring-boot-websocket-example.git
 ```
-2 . Open **Google Chrome Console**
+2 . Open **Google Chrome Console** and paste the code
 ```
 ws = new WebSocket('ws://localhost:8080/message');
 ```
@@ -21,7 +21,7 @@ ws = new WebSocket('ws://localhost:8080/message');
 ```
 ws.send("hello")
 ```
-3 . Close connection
+4 . Close connection
 ```
 ws.close();
 ```
